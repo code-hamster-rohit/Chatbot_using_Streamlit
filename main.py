@@ -1,5 +1,5 @@
 import streamlit as st
-import replicate==0.11.0 as replicate
+import replicate
 import os
 
 # App title
